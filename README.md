@@ -3,7 +3,7 @@
 ## Timeline of Projects
 
 1. **QuickCopy** - [Repository Link](https://github.com/csm-kumar-gaurav/TextClipper.git)
-	- *Description*: Learn how to copy text to clipboard with just one line of JavaScript code.
+	- *Description*: Copy input texts to clipboard with just one line of JavaScript code.
 	- *Technologies*: HTML, CSS, and JavaScript.
 	- *Learning curve*:
 		1. set the heading of the web page as "Copy to clipboard."
@@ -14,3 +14,20 @@
 		4. a placeholder for the text that the user can paste into.
 
 
+2. **PasswordValidator** - [Repository Link](https://github.com/csm-kumar-gaurav/ValidatePassword.git)
+   	- *Description*: Create a secure password validation form using HTML, CSS and JavaScript.
+   	- *Technologies*: HTML, CSS, and JavaScript.
+   	- *Learning curve*:
+		1. Set two groupings with
+			- "Register Now" Form
+   			- Password rules
+   		2. Registration form has
+   			- Label: Email and value input field
+   	  		- Label: Password and value input field
+   	  		- Button: Register
+		3. Password Rules Label: "Password must contain the following:"
+   			- A lowercase letter
+   	  		- A capital (uppercase) letter
+   	  		- A capital (uppercase) letter
+   	  		- A number
+   	  		- Minimum 8 characters
