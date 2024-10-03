@@ -14,7 +14,7 @@
 		4. a placeholder for the text that the user can paste into.
 
 
-2. **PasswordValidator** - [Repository Link](https://github.com/csm-kumar-gaurav/ValidatePassword.git)
+2. **PasswordValidator** - [Repository Link](https://github.com/csm-kumar-gaurav/PasswordValidator.git)
    	- *Description*: Create a secure password validation form using HTML, CSS and JavaScript.
    	- *Technologies*: HTML, CSS, and JavaScript.
    	- *Learning curve*:
