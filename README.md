@@ -31,3 +31,17 @@
    	  		- A capital (uppercase) letter
    	  		- A number
    	  		- Minimum 8 characters
+
+
+3. **TabAnimate** - [Repository Link](https://github.com/csm-kumar-gaurav/TabAnimate.git)
+   	- *Description*: Create an impressive Animated Tab Bar in HTML, CSS, and JavaScript
+   	- *Technologies*: HTML, CSS, and JavaScript.
+   	- *Learning curve*:
+		1. Create four menu buttons 'horizontally' in a container 
+			- Home
+   			- Camera
+   	  		- Setting
+   	    		- Profile
+   		2. Assign each menu button specific color
+   		3. Clicking each menu; changes the complete web page with same color of the menu 
+		
