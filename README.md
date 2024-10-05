@@ -38,10 +38,10 @@
    	- *Technologies*: HTML, CSS, and JavaScript.
    	- *Learning curve*:
 		1. Create four menu buttons 'horizontally' in a container 
-			- Home
-   			- Camera
-   	  		- Setting
-   	    		- Profile
-   		2. Assign each menu button specific color
+		    - Home
+   		    - Camera
+   		    - Setting
+   		    - Profile
+   		2. Assign specific color for each menu button 
    		3. Clicking each menu; changes the complete web page with same color of the menu 
 		
